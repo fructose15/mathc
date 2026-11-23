@@ -1,5 +1,7 @@
 # MathC
 
+![Uploading logo.jpg…]()
+
 MathC is a mathematical programming language and native toolchain (`mcc`) that lets you express arithmetic, symbolic trigonometry, set theory, algebraic equations, and calculus in clean English syntax—and either run scripts directly or compile them to C/HolyC-style object files (`.o`) and native executables.
 
 ## Core Commands
